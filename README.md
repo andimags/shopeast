@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+<img src="screenshot.png" width="500">
 
 ## Demo
 
