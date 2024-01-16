@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-<img src="screenshot.png" width="500">
+<img src="screenshot.png" width="300">
 
 ## Demo
 
