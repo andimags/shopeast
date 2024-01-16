@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![App Screenshot](screenshot.png){:width="400px"}
+![App Screenshot](screenshot.png | width=400)
 
 ## Demo
 
